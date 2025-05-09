@@ -2,7 +2,7 @@
 
 This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://bento-main-wheat.vercel.app/))
+ Live Site URL: [Add live site URL here]((https://bento-main-wheat.vercel.app/))
 
 ## Table of contents
 
@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [ live site URL here]([https://your-live-site-url.com](https://bento-main-wheat.vercel.app/))
+- Live Site URL: [ live site URL here](https://bento-main-wheat.vercel.app/)
 
 ## My process
 
