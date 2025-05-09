@@ -2,7 +2,7 @@
 
 This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
- Live Site URL: [Add live site URL here]((https://bento-main-wheat.vercel.app/))
+ Live Site URL: [Add live site URL here](https://bento-main-wheat.vercel.app/)
 
 ## Table of contents
 
